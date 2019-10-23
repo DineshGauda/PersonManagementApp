@@ -1,0 +1,3 @@
+Database used : mysql
+
+To run simply double click PersonManagementApp.bat file.
