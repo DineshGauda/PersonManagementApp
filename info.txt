@@ -11,3 +11,7 @@ CREATE TABLE `person` (
 
 
 To run simply double click on PersonManagementApp/target/PersonManagementApp.bat file.
+
+
+Sample xml input:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Person><id>2</id><firstName>test</firstName><surName>test</surName></Person>
