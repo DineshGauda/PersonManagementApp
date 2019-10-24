@@ -1,3 +1,13 @@
 Database used : mysql
 
-To run simply double click PersonManagementApp/target/PersonManagementApp.bat file.
+db name : persondb
+table name : person
+CREATE TABLE `person` (
+  `id` int(11) NOT NULL,
+  `firstName` varchar(45) NOT NULL,
+  `surName` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+);
+
+
+To run simply double click on PersonManagementApp/target/PersonManagementApp.bat file.
